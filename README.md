@@ -161,7 +161,7 @@ Matterbridge zigbee2mqtt is a matterbridge production-level plugin that expose a
 
 No hub or dedicated hardware needed.
 
-[somy-tahoma](https://github.com/Luligu/matterbridge-somfy-tahoma)
+[somfy-tahoma](https://github.com/Luligu/matterbridge-somfy-tahoma)
 
 Matterbridge Somfy Tahoma is a matterbridge production-level plugin that expose all Somfy Tahoma devices to Matter.
 
